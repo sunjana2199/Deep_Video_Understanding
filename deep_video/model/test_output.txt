@@ -1,0 +1,5 @@
+,in a room at daytime ,1.11
+,a group of people are dancing in a black and one is dancing on a ,1.18
+,a man is talking to the camera ,0.64
+,a person is indoors ,0.43
+,a man is walking on a stage ,0.61
